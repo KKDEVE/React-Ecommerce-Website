@@ -86,7 +86,7 @@ const Products = () => {
                 <img
                     className="catImg"
                     src="../public/img/banner.jpg"
-                    alt=""
+                    alt="website banner"
                 />
 
                 <List catId={catId} maxPrice={maxPrice} sort={sort} subCats={selectedSubCats} />

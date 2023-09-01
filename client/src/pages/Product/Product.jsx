@@ -40,7 +40,7 @@ const Product = () => {
                                     getURL(import.meta.env.VITE_UPLOAD_URL,
                                         data?.attributes.img.data.attributes.url)
                                 }
-                                alt=""
+                                alt="product image"
                                 onClick={(e) => setSelectedImg("img")}
                             />
                             <img
@@ -48,7 +48,7 @@ const Product = () => {
                                     getURL(import.meta.env.VITE_UPLOAD_URL,
                                         data?.attributes?.img2?.data?.attributes?.url)
                                 }
-                                alt=""
+                                alt="product image 2"
                                 onClick={(e) => setSelectedImg("img2")}
                             />
                         </div>
@@ -58,7 +58,7 @@ const Product = () => {
                                     getURL(import.meta.env.VITE_UPLOAD_URL,
                                         data?.attributes[selectedImg]?.data?.attributes?.url)
                                 }
-                                alt=""
+                                alt="main product image"
                             />
                         </div>
                     </div>
