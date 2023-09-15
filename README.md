@@ -1,11 +1,11 @@
-# Gradient Portfolio Website
+# React Ecommerce Website 
 A fully responsive developer portfolio website utilizing React.js, React Redux, Sass and Strapi.
 
-Features:
-User-friendly CMS for easy update ✅
-A shopping cart with state persistence ✅
-Product filters ✅
-Multiple categories ✅
+Features: <br>
+User-friendly CMS for easy update ✅ <br>
+A shopping cart with state persistence ✅<br>
+Product filters ✅<br>
+Multiple categories ✅<br>
 
 
 **Link to project:** https://kk-ecom.000webhostapp.com/
@@ -19,15 +19,15 @@ Multiple categories ✅
 
 ## Optimizations
 
-More advanced UI design;
-More functionalities
+More advanced UI design; <br>
+More functionalities; <br>
 
 
 ## Lessons Learned:
-🥩 First dabble into the backend and CMS. 
-😂 Encountered a major error(setback) regarding enviroment settings. 
-💾 Found the solution with Chatgpt after numerous attempts and exploring various directions. 
-🥺 Shared the solution with the community and received response that it helped them get over the hurdle and continue their journey.
+🥩 First dabble into the backend and CMS. <br>
+😂 Encountered a major error(setback) regarding enviroment settings. <br>
+💾 Found the solution with Chatgpt after numerous attempts and exploring various directions. <br>
+🥺 Shared the solution with the community and received response that it helped them get over the hurdle and continue their journey.<br>
 
 ## More Projects:
 Check out more projects from me 😉:
